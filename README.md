@@ -4,5 +4,5 @@ The Vault is a system developed in Python for securely storing and retrieving en
 
 # Contributors:
 
-[Rui Carvalho](https://https://github.com/RuiC10)
+[Rui Carvalho](https://github.com/RuiC10)
 [Ana Luísa](https://github.com/Analucar)
